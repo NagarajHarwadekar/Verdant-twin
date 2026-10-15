@@ -1,0 +1,6 @@
+{
+  "name": "Verdant Twin - Green Building Digital Twin",
+  "description": "Commercial sustainability management platform and interactive digital twin for facility teams to monitor energy, occupancy, lighting, water, and carbon performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
